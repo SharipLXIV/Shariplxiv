@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!!👋</h1>
-<h4>Hi there!!👋, I'm Han Sharip <br>
+<h4>Hi there!!👋, I'm Han Sharip. <br>
 i'm a undergraduate student, Majoring in Computer Engineer<br>
 
 
