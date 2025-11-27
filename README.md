@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!!👋</h1>
-<h2>i needa 19 million job possibility pls gibran </h2>
+<h2>i needa 19 million job possibility pls</h2>
 
 
 
